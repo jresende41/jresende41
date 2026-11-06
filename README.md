@@ -1,23 +1,20 @@
-# 👋 Olá, eu sou Jeferson!
+# Jeferson Resende
 
-💻 Desenvolvedor apaixonado por automações, bots e análise de dados  
-🚀 Explorando o mundo do Node.js, Python e inteligência artificial  
-🎯 Sempre buscando soluções que simplificam a vida
+Tech Lead em projetos SAP e ERP, com foco em integrações corporativas,
+arquitetura de soluções e governança técnica.
 
----
+Atuo pela AtisWork em um projeto de Reforma Tributária na CPFL Energia,
+em um contexto de SAP ECC, SAP S/4HANA, CCS e sistemas satélites.
 
-## 🧰 Tecnologias que uso
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+## O que desenvolvo e estudo
 
----
+- Integração de sistemas, APIs e automação.
+- Arquitetura e documentação de decisões técnicas.
+- Projetos web e experimentos autorais com JavaScript, Python e Git.
 
-## 📊 GitHub Stats
-![Jeferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jresende41&show_icons=true&theme=radical)
+## Trabalho e contato
 
----
-
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=github&logoColor=white)](https://seu-site.com)
+- [Portfólio profissional](https://www.gruporsd.com.br/portfolio/)
+- [Site Grupo RSD](https://www.gruporsd.com.br/)
+- [LinkedIn](https://www.linkedin.com/in/jresendejr/)
+- [Bio e canais de contato](https://www.gruporsd.com.br/bio/)
