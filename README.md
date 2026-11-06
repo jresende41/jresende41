@@ -1,7 +1,7 @@
 # Jeferson Resende
 
-Tech Lead em projetos SAP e ERP, com foco em integrações corporativas,
-arquitetura de soluções e governança técnica.
+Tech Lead com atuação em gestão de projetos de tecnologia, operações de negócio,
+arquitetura de soluções, integrações corporativas e governança técnica.
 
 Atuo pela AtisWork em um projeto de Reforma Tributária na CPFL Energia,
 em um contexto de SAP ECC, SAP S/4HANA, CCS e sistemas satélites.
