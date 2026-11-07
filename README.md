@@ -18,3 +18,5 @@ em um contexto de SAP ECC, SAP S/4HANA, CCS e sistemas satélites.
 - [Site Grupo RSD](https://www.gruporsd.com.br/)
 - [LinkedIn](https://www.linkedin.com/in/jresendejr/)
 - [Bio e canais de contato](https://www.gruporsd.com.br/bio/)
+- [Instagram pessoal](https://www.instagram.com/resende.imc.issi/)
+- [Facebook pessoal](https://www.facebook.com/profile.php?id=61565086576622)
